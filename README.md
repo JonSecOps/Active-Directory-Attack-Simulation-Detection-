@@ -1,4 +1,5 @@
-# End-to-End Brute-Force Attack Simulation and Monitoring in an AD Environment
+# Active Directory Attack Simulation & Detection 
+
 
 **Project Summary:**
 This project involves simulating a Brute Force Password Attack in a secure environment using Active Directory (AD)and SIEM (Splunk) tools. The key objective is to demonstrate how a brute force attack is executed, logged, and detected through telemetry. It covers setting up Active Directory with users, configuring a Kali Linux attacker machine, running brute force attack commands, and visualizing the attack using Splunk.
